@@ -4,9 +4,7 @@
 
 - <b>Active Directory (User Management)</b>
   - [Active Directory: Prerequisites & Installation](https://github.com/loganstarnesIT/ad-prereqs)
-  - [Active Directory: Creating Users & Management]
+  - [Active Directory: Creating Users & Management] - Unfinished!
 
 - <b>Microsoft Azure</b>
-  - [Deploying a Virtual Machine & Virtual Network](https://github.com/loganstarnesIT/azure-vm-deployment)
-
-- <b></b>
+  - [Deploying a Virtual Machine & Virtual Network] - Unfinished!
