@@ -4,7 +4,9 @@
 
 - <b>Active Directory (User Management)</b>
   - [Active Directory: Prerequisites & Installation](https://github.com/loganstarnesIT/ad-prereqs)
+  - [Active Directory: Creating Users & Management]
 
 - <b>Microsoft Azure</b>
-  - [Observe ICMP Traffic between VMs using WireShark](https://github.com/loganstarnesIT/vm-traffic)
   - [Deploying a Virtual Machine & Virtual Network](https://github.com/loganstarnesIT/azure-vm-deployment)
+
+- <b></b>
