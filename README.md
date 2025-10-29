@@ -3,11 +3,11 @@
 <h2>🌐 Information Technology Projects:</h2>
 
 - <b>🧩 Active Directory (User Management)</b>
-  - [Active Directory: Prerequisites & Installation](https://github.com/loganstarnesIT/ad-prereqs) --- Setting up a Windows Server environment and configuring domain services.
-  - [Active Directory: Creating Users & Management] (Lab in development!) --- Automating account creation and permissions in AD.
+  - [Active Directory: Prerequisites & Installation](https://github.com/loganstarnesIT/ad-prereqs)
+  - [Active Directory: Creating Users & Management] (Lab in development!) 
 
 - <b>☁️ Microsoft Azure</b>
-  - [Deploying a Virtual Machine & Virtual Network] (Lab in development!) --- Practicing VM creation, network configuration, and remote connectivity in Azure Portal.
+  - [Deploying a Virtual Machine & Virtual Network] (Lab in development!) 
 
 - <b>💻 PowerShell Scripting</b>
-  - [Creating Basic & Efficient PowerShell Scripts] (Lab in development!) --- Writing scripts for system diagnostics, user creation, and workstation maintenance.
+  - [Creating Basic & Efficient PowerShell Scripts] (Lab in development!) 
