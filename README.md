@@ -4,7 +4,10 @@
 
 - <b>Active Directory (User Management)</b>
   - [Active Directory: Prerequisites & Installation](https://github.com/loganstarnesIT/ad-prereqs)
-  - [Active Directory: Creating Users & Management] - Unfinished!
+  - [Active Directory: Creating Users & Management] - In Progress!
 
 - <b>Microsoft Azure</b>
-  - [Deploying a Virtual Machine & Virtual Network] - Unfinished!
+  - [Deploying a Virtual Machine & Virtual Network] - In Progress!
+
+- <b>PowerShell Scripting</b>
+  - [Creating Basic & Efficient PowerShell Scripts] - In Progress!
