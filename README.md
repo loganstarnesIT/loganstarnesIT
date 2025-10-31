@@ -7,10 +7,8 @@
   - [Active Directory: Creating Users & Management] (Lab in development!) 
 
 - <b>☁️ Microsoft Azure</b>
-  - [Deploying a Virtual Machine & Virtual Network](https://github.com/loganstarnesIT/azure-vm-deployment) 
-
-- <b>💻 PowerShell Scripting</b>
-  - [Creating Basic & Efficient PowerShell Scripts] (Lab in development!) 
+  - [Deploying a Virtual Machine & Virtual Network](https://github.com/loganstarnesIT/azure-vm-deployment)
+  - [Monitoring Network Traffic with Wireshark] (Lab in development!) 
 
 - <b>📑 Microsoft Office 365</b>
   - [Install and Configure Microsoft Office] (Lab in development!)
