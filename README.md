@@ -7,7 +7,7 @@
   - [Active Directory: Creating Users & Management] (Lab in development!) 
 
 - <b>☁️ Microsoft Azure</b>
-  - [Deploying a Virtual Machine & Virtual Network] (Lab in development!) 
+  - [Deploying a Virtual Machine & Virtual Network]() 
 
 - <b>💻 PowerShell Scripting</b>
   - [Creating Basic & Efficient PowerShell Scripts] (Lab in development!) 
